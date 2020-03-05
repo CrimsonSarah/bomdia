@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: black;
+    font-family: sans-serif;
+    font-size: 1500%;
+    font-weight: bolder;
+    text-align: center;
+}
+
+p{
+    margin-top: 5%;
+}
+
+p:hover{
+    color: crimson;
+    transition: 3s;
+}
